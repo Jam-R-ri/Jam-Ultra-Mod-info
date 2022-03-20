@@ -1,3 +1,6 @@
+ONLY DOWNLOAD THIS MOD FROM THE HERE
+DO NOT DOWNLOAD THIS MOD FROM ANY OTHER SOURCE
+
 This mod adds stupid stuff
 
 to run it you need forge 1.18.2
