@@ -1,6 +1,7 @@
 A forge mod for 1.18.2 that adds very.. very stupid stuff
 
 ### INSTALL
+### YOU NEED MINECRAFT JAVA AND A COMPUTER
 
 Download Minecraft forge 1.18.2 [http://bitly.ws/pDpf]
 
