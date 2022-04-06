@@ -2,6 +2,7 @@ A forge mod for 1.18.2 that adds very.. very stupid stuff
 
 ### INSTALL
 ### YOU NEED MINECRAFT JAVA AND A COMPUTER
+[i could not shorten the urls as bitly.ws is down]
 
 Download Minecraft forge 1.18.2 [https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html]
 
